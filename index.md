@@ -1,5 +1,7 @@
 ## Welcome to Will's 2020 Portfolio
 
+![typing test](https://github.com/WillSchofield/portfolio2020/blob/gh-pages/images/Screen%20Shot%202020-09-20%20at%204.22.35%20PM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/WillSchofield/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
