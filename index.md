@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Will's 2020 Portfolio
 
 You can use the [editor on GitHub](https://github.com/WillSchofield/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
